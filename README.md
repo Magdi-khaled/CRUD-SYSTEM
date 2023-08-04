@@ -1,4 +1,4 @@
-# CRUDS-SYSTEM
+# CRUD-SYSTEM
   -  CREATE
   -  READ
   -  UPDATE
