@@ -1,1 +1,5 @@
 # CRUDS-SYSTEM
+  -  CREATE
+  -  READ
+  -  UPDATE
+  -  DELETE
